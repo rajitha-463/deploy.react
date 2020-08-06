@@ -1,0 +1,94 @@
+{
+   "products":[
+       {
+
+    "facts":  
+      {
+        "title": "Google Pixel - Black",
+       " img":"img/product-1.png",
+       " price": "10000",
+        "company": "GOOGLE"
+        
+      }
+    },
+    {
+
+        "facts":  
+          {
+            "title": "samsung",
+           " img":"img/product-1.png",
+           " price": "16000",
+            "company": "SAMSUNG"
+            
+          }
+        },
+        {
+
+            "third":  
+              {
+                "title": "HTC 10 - Black",
+               " img":"img/product-1.png",
+               " price": "18000",
+                "company": "HTC"
+                
+              }
+            },
+            {
+
+                "facts":  
+                  {
+                    "title": "HTC desire 626s",
+                   " img":"img/product-1.png",
+                   " price": "10000",
+                    "company": "GOOGLE"
+                    
+                  }
+                },
+                {
+
+                    "facts":  
+                      {
+                        "title": "HTC - whitw",
+                       " img":"img/product-1.png",
+                       " price": "17000",
+                        "company": "HTC"
+                        
+                      }
+                    },
+                    {
+
+                        "facts":  
+                          {
+                            "title": "vintage I phone",
+                           " img":"img/product-1.png",
+                           " price": "30000",
+                            "company": "APPLE"
+                            
+                          }
+                        },
+                        {
+
+                            "fact":  
+                              {
+                                "title": "I phone 7",
+                               " img":"img/product-1.png",
+                               " price": "10000",
+                                "company": "APPLEE"
+                                
+                               }
+                            },
+                            {
+
+                                "fact":  {
+                                  
+                                    "title": "cracked phone",
+                                   " img":"img/product-1.png",
+                                   " price": "xxxx",
+                                   "company":"unknown"
+                                    
+                                  }
+                                }
+                            ]
+                        }
+    
+  

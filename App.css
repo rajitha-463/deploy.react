@@ -1,0 +1,13 @@
+.box{
+    border:2px salmon solid;
+    margin: 10px 100px 100px 100px;
+   
+}
+.container{
+    border: slategrey 2px solid;
+   
+}
+.detailer{
+    border: 2px salmon solid;
+    margin: 10px 100px 100px 100px;
+}
